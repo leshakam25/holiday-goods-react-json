@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Big red baloonasdasdasd",
+      "category": {
+        "id": 1,
+        "title": "baloons"
+      },
+      "status": {
+        "id": 1,
+        "title": "new"
+      },
+      "description": "Very good big red baloon for youdasdasdddddddddddddddddddddddddddddddddddddddddddddddd",
+      "createdAt": "21.07.2022, 11:22",
+      "images": [
+        {
+          "url": "https://sun9-63.userapi.com/impg/H_bw1ryD0Txxyx_6uvqrHsBD14KqsJZoZCCY1g/knqo877OtTY.jpg?size=445x604&quality=96&sign=4179e6c8e4c95e59f52c3092df2a6b48&type=album"
+        },
+        {
+          "url": "https://www.pngkit.com/png/detail/259-2591235_stain-sphere.png"
+        },
+        {
+          "url": "https://img.sunsky-online.com/upload/store/product_l/TBD0373472601.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Big green baloon",
+      "category": {
+        "id": 1,
+        "title": "baloons"
+      },
+      "status": {
+        "id": 1,
+        "title": "new"
+      },
+      "description": "Very good big red baloon for youdasdasd",
+      "createdAt": "21.07.2022, 11:22",
+      "images": [
+        {
+          "url": "https://sun9-63.userapi.com/impg/H_bw1ryD0Txxyx_6uvqrHsBD14KqsJZoZCCY1g/knqo877OtTY.jpg?size=445x604&quality=96&sign=4179e6c8e4c95e59f52c3092df2a6b48&type=album"
+        },
+        {
+          "url": "https://www.pngkit.com/png/detail/259-2591235_stain-sphere.png"
+        },
+        {
+          "url": "https://img.sunsky-online.com/upload/store/product_l/TBD0373472601.jpg"
+        }
+      ]
+    }
+  ],
+  "orders": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "baloons"
+    },
+    {
+      "id": 2,
+      "name": "toys"
+    },
+    {
+      "id": 3,
+      "name": "packaging"
+    }
+  ],
+  "statuses": []
+}
