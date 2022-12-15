@@ -1,5 +1,38 @@
 {
-  "products": [],
+  "products": [
+    {
+      "article": "Б2341",
+      "title": "фывфыв",
+      "tags": "Новинка, Распродажа",
+      "category": "шарики",
+      "createdAt": "15:55:42, 15.11.2022",
+      "description": "Одноцветные, высококачественные шарики из натурального латекса. Тип шара – кристалл Bubble, надутый шар будет прозрачным как капля росы с легким оттенком синего цвета Blue. Размер шаров в надутом виде - 32 см. Шары продаются ненадутыми. Вы можете надуть их как воздухом при помощи ручного насоса или компрессора, так и гелием. Производитель: Belbal, Бельгия. Шары выполнены из натурального биоразлагаемого латекса, после употребления лопнуть и утилизировать как бытовой отход.",
+      "id": 1,
+      "images": [
+        {
+          "image": "https://spb.zatey.ru/upload/resize_cache/webp/iblock/366/xo0g5bkqm599tl52hwc00pog1w9tgtpf/golubaya_sharik_32sm_tsvet_042_kristall_bubbleblue_1102_1797.webp"
+        },
+        {
+          "image": "https://spb.zatey.ru/upload/resize_cache/webp/iblock/366/xo0g5bkqm599tl52hwc00pog1w9tgtpf/golubaya_sharik_32sm_tsvet_042_kristall_bubbleblue_1102_1797.webp"
+        },
+        {
+          "image": "https://spb.zatey.ru/upload/resize_cache/webp/iblock/366/xo0g5bkqm599tl52hwc00pog1w9tgtpf/golubaya_sharik_32sm_tsvet_042_kristall_bubbleblue_1102_1797.webp"
+        },
+        {
+          "image": "https://spb.zatey.ru/upload/resize_cache/webp/iblock/366/xo0g5bkqm599tl52hwc00pog1w9tgtpf/golubaya_sharik_32sm_tsvet_042_kristall_bubbleblue_1102_1797.webp"
+        }
+      ]
+    },
+    {
+      "article": "",
+      "title": "",
+      "tags": "",
+      "category": "",
+      "createdAt": "16:36:50, 15.11.2022",
+      "description": "",
+      "id": 2
+    }
+  ],
   "orders": [],
   "categories": [
     {
